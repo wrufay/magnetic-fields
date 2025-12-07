@@ -1,2 +1,2 @@
 # magnetic-fields
-project for grade 12 physics.
+calculate behaviour of ions when putting them through magnetic fields
